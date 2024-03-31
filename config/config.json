@@ -1,0 +1,16 @@
+{
+    "locations": {
+        "not": "CHANGE THIS SECTION VALUES ACCORDING YOUR NEEDS",
+        "mysql_config": "config/mysql_config.json",
+        "sample_csv": "assets/customers.csv",
+        "output_folder": "output",
+        "city_json_url": "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/cities.json"
+    },
+    "user": {
+        "name": "Kinjal"
+    },
+    "program": {
+        "note": "RESERVED BY PROGRAM, DON'T CHANGE PROGRAM SECTION.",
+        "last_fetched_url": "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/cities.json"
+    }
+}
